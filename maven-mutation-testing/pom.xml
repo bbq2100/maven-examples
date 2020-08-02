@@ -66,6 +66,7 @@
                     <targetClasses>
                         <param>com.mkyong.examples.*Calculator*</param>
                         <param>com.mkyong.examples.*Stock*</param>
+                        <param>com.mkyong.examples.*Palindrome*</param>
                     </targetClasses>
                     <targetTests>
                         <param>com.mkyong.examples.*</param>
